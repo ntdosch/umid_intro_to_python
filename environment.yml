@@ -1,0 +1,28 @@
+name: umid
+channels:
+- conda-forge
+dependencies:
+- python
+- ipython
+- jupyter
+- notebook
+- ipykernel
+- matplotlib
+- pyyaml
+- numpy
+- scipy
+- xarray
+- netcdf4
+- pandas
+- geopandas
+- gdal
+- fiona
+- rasterio
+- rasterstats
+- shapely
+- rtree
+- pyproj
+- pyshp
+- xlrd
+- openpyxl
+- dataretrieval
