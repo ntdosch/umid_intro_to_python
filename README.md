@@ -18,7 +18,7 @@ FPL Building 1, Room 101
      ```
    - Use Conda to build a custom environment, using the  `environment.yml` file:
       ```
-      conda env create -f environment.yml
+      mamba env create -f environment.yml
       ```
    - See a list of the available environments:
       ```
